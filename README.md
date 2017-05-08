@@ -4,47 +4,47 @@
 
 ## About
 
-This project uses [Feathers](http://feathersjs.com). An open source web framework for building modern real-time applications.
+Este proyecto usa  [Feathers](http://feathersjs.com). Un  web framework open source para construir modernas aplicaciones en tiempo real.
 
-## Getting Started
+## Iniciando
 
-Getting up and running is as easy as 1, 2, 3.
+Obtenerlo y ejecutarlo es tan fácil como 1, 2, 3.
 
-1. Make sure you have [NodeJS](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed.
-2. Install your dependencies
+1. Debe tener  [NodeJS](https://nodejs.org/) y [npm](https://www.npmjs.com/) instalado.
+2. Instalar dependencias
 
     ```
     cd path/to/feathers-chat; npm install
     ```
 
-3. Start your app
+3. Inicie su app
 
     ```
     npm start
     ```
 
-## Testing
+## Probar app
 
-Simply run `npm test` and all your tests in the `test/` directory will be run.
+Simplemente ejecute `npm test` y todos las pruebas en el directorio `test/` serán ejecutadas.
 
-## Scaffolding
+## Estructura para hacerlo
 
-Feathers has a powerful command line interface. Here are a few things it can do:
+Feathers tiene una potente interface CLI. Aquí unas cuantas ccosas que puede realizar:
 
 ```
-$ npm install -g feathers-cli             # Install Feathers CLI
+$ npm install -g feathers-cli             # Instalar Feathers CLI
 
-$ feathers generate service               # Generate a new Service
-$ feathers generate hook                  # Generate a new Hook
-$ feathers generate model                 # Generate a new Model
-$ feathers help                           # Show all commands
+$ feathers generate service               # Generar un nuevo servicio
+$ feathers generate hook                  # Generate a nuevo Hook
+$ feathers generate model                 # Generate a nuevo modelo (DB)
+$ feathers help                           # Mostrar todos los omandos
 ```
 
-## Help
+## Ayuda
 
-For more information on all the things you can do with Feathers visit [docs.feathersjs.com](http://docs.feathersjs.com).
+Para mayor información sobre todas las cosas que usted puede hacer con Feathers visite [docs.feathersjs.com](http://docs.feathersjs.com).
 
-## Changelog
+## Registro de cambios
 
 __0.1.0__
 
